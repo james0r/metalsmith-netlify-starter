@@ -1,0 +1,4 @@
+backend:
+  name: git-gateway
+  repo: james0r/metalsmith-netlify-starter
+  branch: main
